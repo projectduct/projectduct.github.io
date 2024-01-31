@@ -1,0 +1,68 @@
+	h1, h2, h3, h4, h5, h6, strong {
+	font-family: 'Kollektif';
+	color: #51344d;
+}
+
+h1 {
+	margin-bottom: 5%;
+}
+
+h2, h3, h5{
+	margin-bottom: 3%;
+	margin-top: 3%;
+}
+
+h3 {
+	color: #977B77;
+}
+
+h5 {
+	background-color: #e3e8bb;
+	padding: 3px;
+}
+
+.imgCaption {
+	margin-top: 1%;
+	text-align: center;
+	background-color: #e3e8bb;
+	color: #51344d;
+}
+
+.blockquote {
+	margin: 4%;
+	padding: 4%;
+	color: #51344d;
+	border-left: 5px solid #e3e8bb;
+}
+
+.pageChange {
+	margin-top: 10%;
+	margin-bottom: 10%;
+	color: 604856;
+}
+
+.reportCover {
+	margin-top: -25%;
+	text-align: center;
+	font-weight: 800;
+	padding: 0 10% 0 10%;
+}
+
+.reportTitle {
+	font-size: 400%;
+}
+
+.reportSubTitle{
+	color: #8D8B7B;
+}
+
+.reportContact {
+	margin-top: 10%;
+}
+
+
+.bg-nav {
+    background-color: #51344d;
+    font-family: 'Kollektif';
+    padding-left:  10px;
+}
